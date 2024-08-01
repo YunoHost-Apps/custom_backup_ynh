@@ -1,0 +1,20 @@
+#:schema https://github.com/YunoHost/apps/raw/master/schemas/config_panel.v1.schema.json
+
+version = "1.0"
+
+[main]
+
+    [main.main]
+
+    name = ""
+        
+        [main.main.extra_paths]
+        ask.en = "List of extra paths to backup"
+        type = "text"
+        help.en = "One absolute path per line. You should check each path is not already backup by YunoHost."
+        example = "/usr/local/bin/"
+    
+        [main.main.services_to_reload]
+        ask.en = "Services to reload"
+        type = "tags"
+        help.en = "Services to reload or restart after a restore."
