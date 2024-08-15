@@ -22,7 +22,7 @@ This app allow to add some extra paths to backup/restore by yunohost in case you
 **Versi terkirim:** 1.0~ynh1
 ## Dokumentasi dan sumber daya
 
-- Depot kode aplikasi hulu: <https://github.com/YunoHost-Apps/my_webapp_ynh>
+- Depot kode aplikasi hulu: <https://github.com/YunoHost-Apps/custom_backup_ynh>
 - Gudang YunoHost: <https://apps.yunohost.org/app/custom_backup>
 - Laporkan bug: <https://github.com/YunoHost-Apps/custom_backup_ynh/issues>
 

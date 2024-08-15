@@ -22,7 +22,7 @@ This app allow to add some extra paths to backup/restore by yunohost in case you
 **Paketatutako bertsioa:** 1.0~ynh1
 ## Dokumentazioa eta baliabideak
 
-- Jatorrizko aplikazioaren kode-gordailua: <https://github.com/YunoHost-Apps/my_webapp_ynh>
+- Jatorrizko aplikazioaren kode-gordailua: <https://github.com/YunoHost-Apps/custom_backup_ynh>
 - YunoHost Denda: <https://apps.yunohost.org/app/custom_backup>
 - Eman errore baten berri: <https://github.com/YunoHost-Apps/custom_backup_ynh/issues>
 
