@@ -13,7 +13,7 @@ maintainers = ["ljf"]
 
 [upstream]
 license = "AGPL-3.0-only"
-code = "https://github.com/YunoHost-Apps/my_webapp_ynh"
+code = "https://github.com/YunoHost-Apps/custom_backup_ynh"
 
 [integration]
 yunohost = ">= 11.2"
