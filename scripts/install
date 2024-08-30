@@ -10,4 +10,4 @@ source /usr/share/yunohost/helpers
 #=================================================
 # END OF SCRIPT
 #=================================================
-ynh_script_progression --message="Installation of $app completed" --last
+ynh_script_progression "Installation of $app completed"
