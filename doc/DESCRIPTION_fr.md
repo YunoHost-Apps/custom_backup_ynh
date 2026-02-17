@@ -1,0 +1,1 @@
+Cette application permet d'ajouter des chemins supplémentaires à sauvegarder/restaurer par YunoHost au cas où vous auriez effectué des modifications manuelles qui ne sont pas prises en compte dans les fichiers déjà gérés par YunoHost.
