@@ -31,14 +31,18 @@ ram.runtime = "0M"
 [install]
     [install.extra_paths]
     ask.en = "List of extra paths to backup"
+    ask.fr = "Liste de chemins supplémentaires à sauvegarder"
     type = "text"
     help.en = "One absolute path per line. You should check each path is not already backup by YunoHost."
+    help.fr = "Un chemin absolu par ligne. Vérifiez que chaque chemin n'est pas déjà sauvegardé par YunoHost."
     example = "/usr/local/bin/"
     
     [install.services_to_reload]
     ask.en = "Services to reload"
+    ask.fr = "Services à recharger"
     type = "tags"
     optional = true
     help.en = "Services to reload or restart after a restore."
+    help.fr = "Services à recharger ou redémarrer après une restauration."
 
 [resources]
